@@ -1,3 +1,3 @@
 # DesignPatterns
-Design Patterns in Java
-My Notes About Design Patterns To Me.
+
+My Codes & Notes To Me About Design Patterns 
